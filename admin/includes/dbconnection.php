@@ -2,7 +2,7 @@
 // DB credentials.
 define('DB_HOST','localhost');
 define('DB_USER','purna');
-define('DB_PASS','purnasai');
+define('DB_PASS','');
 define('DB_NAME','hmmsdb');
 // Establish database connection.
 try
